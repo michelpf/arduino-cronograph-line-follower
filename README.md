@@ -19,7 +19,14 @@ Ao final da tomada de tempo, pode-se utilizar do botão de reset para reinício 
 
 ## Desenho esquemático
 
+![](https://github.com/michelpf/arduino-cronograph-line-follower/blob/main/schematics/schematics.png)
+
 ## Bibliotecas utilizadas
 
 LiquidCyrstal I2C v.1.1.2
 
+## Inspiração e referênicas
+
+[GE Projetos e Tutoriais](https://www.youtube.com/watch?v=GihALLlaGIE&t=721s)
+
+[Tronics Ik](https://www.youtube.com/watch?v=CvqHkXeXN3M)
